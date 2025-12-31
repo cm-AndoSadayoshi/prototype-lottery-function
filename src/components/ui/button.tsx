@@ -36,7 +36,7 @@ export function Button({
         variant === "outline" &&
           "bg-white text-[#D4AF37] border-2 border-[#D4AF37] hover:bg-[#FFF8DC] active:bg-[#F5EDD6]",
         variant === "ghost" &&
-          "bg-transparent text-[#666666] hover:bg-gray-100 active:bg-gray-200",
+          "bg-transparent hover:bg-white/10 active:bg-white/20",
         variant === "gold" &&
           "bg-gradient-to-r from-[#D4AF37] to-[#B8860B] text-white hover:from-[#C9A431] hover:to-[#A67B0A] shadow-lg",
         // Size
