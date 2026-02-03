@@ -1,5 +1,5 @@
 import { LoseContent } from "@/components/pages/LoseContent";
 
 export default function LosePage() {
-  return <LoseContent basePath="/demo" />;
+  return <LoseContent basePath="/mini" />;
 }

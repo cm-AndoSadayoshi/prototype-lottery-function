@@ -1,5 +1,5 @@
 import { SpeedlotContent } from "@/components/pages/SpeedlotContent";
 
 export default function SpeedLotPage() {
-  return <SpeedlotContent basePath="/demo" />;
+  return <SpeedlotContent basePath="/mini" />;
 }
